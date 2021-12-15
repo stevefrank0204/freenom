@@ -224,7 +224,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/main
 
 [![wechat_04.png](https://z3.ax1x.com/2021/11/08/I8009f.png)](https://imgtu.com/i/I8009f)
 
-[![wechat_05.png](https://z3.ax1x.com/2021/11/08/I8rqEj.png)](https://imgtu.com/i/I8rqEj)
+[![wechat_05.png](https://z3.ax1x.com/2021/11/08/I8rqEj.png)](https://imgtu.com/i/I8rqEj) 
 
 6、获取`企业 ID`，并将`.env`文件中`WECHAT_CORP_ID`的值改为`企业 ID`的值
 
